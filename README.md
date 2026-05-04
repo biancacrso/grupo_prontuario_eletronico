@@ -1,6 +1,6 @@
 # grupo_prontuario_eletronico
 
-## Será criado um sistema que solucionará a ausência de acesso à informação e ao histórico do paciente nas unidades hospitalares do Tocantins
+## Será um criado um software para solucionar a dificuldade de acesso ao histórico do paciente em uma unidade hospitalar
 
 **Problema:** Em uma unidade hospitalar, o setor responsável pela guarda e disponibilização de prontuários físicos enfrenta grande dificuldade quando há solicitação de documentos, seja por pacientes, responsáveis legais ou por demanda judicial. A busca é demorada devido ao grande volume de papéis, à necessidade de espaço físico para armazenamento e à organização manual dos arquivos. Além disso, muitos prontuários estão deteriorados, contaminados, com informações antigas ou ilegíveis, o que compromete a confiabilidade dos dados e atrasa o atendimento das solicitações.
 
